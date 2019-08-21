@@ -1,0 +1,1 @@
+## ReactJS frontend admin panel for InstaVote DApp.
